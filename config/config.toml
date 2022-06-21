@@ -1,4 +1,4 @@
-baseURL = "http://testblog2-chqwork.vercel.app/" # The URL of your site.
+baseURL = "https://testblog2-chqwork.vercel.app/" # The URL of your site.
 title = "ちくわ工場(仮)" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
